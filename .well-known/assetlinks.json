@@ -1,11 +1,1 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.balozy.pros",
-      "sha256_cert_fingerprints":
-        ["47:72:94:63:44:51:62:9C:B7:75:AE:31:8B:8A:66:DA:70:B4:36:A1:41:06:A5:02:02:CE:EE:A5:A2:2B:28:A6"]
-    }
-  }
-]
+
